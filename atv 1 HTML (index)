@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<link rel="stylesheet" href="style copy.css">
+<body>
+   <main>
+        <div class="main-content">
+        <div class="btns">
+                <button class="btn-fch"><a href="NORMAL.html">NORMAL</a></button>
+                <button class="btn-par"><a href="PREFERENCIAL.html">PREFERENCIAL</a></button>
+            </div>
+        </div>
+    </main>
+  
+</body>
+
+</html>
