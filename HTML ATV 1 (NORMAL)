@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<link rel="stylesheet" href="style copy.css">
+<tr>
+    <td colspan="2">
+    <div class="main-content">
+    <h2 class="primary-text"> INFORME SEU CPF PARA ATENDIMENTO: </h2>
+    <form class="second-text">
+        <h3 > Digite seu CPF: </h3 >
+        <nome do formulário  =" cadastro " >
+
+     </form >
+    <input type="number"  name="CPF"><br>
+
+    <input type="submit"  value="2° VIA"><br>
+    <input type="submit"  value="ALTERAÇÃO DE TITULAR"><br>
+    <input type="submit"  value="NOVA LIGAÇÃO"><br>
+    <input type="submit"  value="DESLIGAMENTO"><br>
+    <input type="submit"  value="NEGOCIAÇÃO DE DÉBITOS"><br>
+    <button><a href="inicio.html">Voltar</a></button>
+    
+    </form>
+    </div>
+    </td>
+</tr>
+</html>
