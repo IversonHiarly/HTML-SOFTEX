@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página inicial</title>
+</head>
+<body background="grey"
+<table Border="0" width="900" Align="center"> 
+    <tr>
+        <td colspan="2" align="center">
+            <img src="images (1).jpg">
+        </td>
+        
+        
+    </tr>
+    <td colspan="2" align="center">
+    
+        <h2>    COLISEU </h2>
+         <p>Coliseu, também conhecido como Anfiteatro Flaviano, é um anfiteatro oval localizado no centro da cidade de Roma, capital da Itália. Construído com tijolos revestidos de argamassa e areia, e originalmente cobertos com travertino é o maior anfiteatro já construído e está situado a leste do Fórum Romano. A construção começou sob o governo do imperador Vespasiano em 72 d.C. e foi concluída em 80 d.C., sob o regime do seu sucessor e herdeiro, Tito. Outras modificações foram feitas durante o reinado de Domiciano. Estes três imperadores são conhecidos como a dinastia flaviana e o anfiteatro foi nomeado em latim desta maneira por sua associação com o nome da família. O Coliseu poderia abrigar, estima-se, entre 50 mil e 80 mil espectadores, com uma audiência média de cerca de 65 mil pessoas. O edifício era usado para combates de gladiadores e espetáculos públicos, tais como simulações de batalhas marítimas, caças de animais selvagens, execuções, encenações de batalhas famosas e dramas baseados na mitologia clássica. O prédio deixou de ser usado para entretenimento na era medieval.</p>       
+
+    </td>
+    <tr>
+        <td colspan="2" align="center">
+            <h4> todos os direitos reservados </h4>
+
+        </td>
+    </tr>
+
+       
