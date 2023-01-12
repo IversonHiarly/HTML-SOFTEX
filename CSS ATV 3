@@ -1,0 +1,60 @@
+corpo {
+        
+    imagem de fundo :  gradiente linear (para a direita ,  rgb ( 238 ,  238 ,  238 ) ,  rgb ( 179 ,  228 ,  235 ));
+}
+
+
+. cabecalho {
+    largura :  700 px ;
+    margem-esquerda : auto;
+    margem direita : auto;
+    preenchimento :  24 px ;
+    justificar-conteúdo : espaço ao redor;  
+    cor :  rgb ( 0 ,  0 ,  0 );
+}
+
+. cabecalho-menu {
+    largura :  700 px ;
+    margem-esquerda : auto;
+    margem direita : auto;
+    preenchimento :  24 px ;
+    justificar-conteúdo : espaço ao redor;
+    tamanho da fonte :  30 px ;  
+    cor :  rgb ( 12 ,  42 ,  99 )
+}
+
+. legenda {
+    largura :  700 px ;
+    margem-esquerda : auto;
+    margem direita : auto;  
+    cor :  rgb ( 21 ,  12 ,  100 );
+}
+
+. conteudo {
+    largura :  700 px ;
+    margem-esquerda : auto;
+    margem direita : auto;
+}
+
+. imagem-cabecalho {
+    largura :  700 px ;
+    margem-esquerda : auto;
+    margem direita : auto;
+    altura :  400 px ;
+}
+
+. imagem-conteudo {
+    altura :  500 px ;
+}
+
+. sub-conteudo {
+    largura :  700 px ;
+    margem-esquerda : auto;
+    margem direita : auto;  
+    cor :  rgb ( 21 ,  12 ,  100 );
+}
+
+. rodape {
+    alinhamento de texto : centro;  
+    cor :  rgb ( 21 ,  12 ,  100 );
+}
